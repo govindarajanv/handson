@@ -1,0 +1,5 @@
+1. Disable OPTIONS and DELETE method
+
+Both OPTIONS and DELETE methods are seen as vulnerabilities as part of Web Application Security Assessment (WASA) scans. Disabling OPTIONS method at Apache webserver side would not be possible as HA Proxy uses OPTIONS method to perform health checks and disabling OPTIONS method will impact the normal working of the application
+
+I have done this change as part of HA Proxy using ACL and valid methods are listed and anyother method apart from those valid methods will not be allowed. 

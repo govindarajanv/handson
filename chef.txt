@@ -1,0 +1,4 @@
+1. Setting up QA environment from scratch
+
+This includes creating a new environment file with required attributes, setting right cookbook versions and dependencies, node jsons, run list and roles associated with the nodes.
+All the nodes were bootstrapped with proper roles and runlists.

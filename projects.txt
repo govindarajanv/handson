@@ -1,0 +1,31 @@
+Planned:
+========
+
+1. Test Driven Cookbook Development using Dockers
+2. Implementing the process of having pull request for changes
+3. Make CloudFormation Template of Dev,QA, IQA and UAT
+4. Automate the process of handling Vault key expiry
+5. Build Plan for cookbook upload to AWS servers
+6. POC to implement consistency between Chef Server and Stash
+7. Move configurations into Env from recipes
+8. System Architecture of machines
+9. Improvising Monitoring using Zabbix or Nagios
+10. AWS level monitoring using Cloudwatch and SNS
+11. VZ level monitoring using platform offerings
+12. Automate execution of custom scripts
+13. Track and ensuring compliance
+14. Maintain All server and environment details in Confluence
+15. Consolidation of curl commands so that the testing can be done at Devops end to ensure application sanctity
+16. Reduce Operations work by proactively automating the repetitive tasks and reduce TAT
+17. Make Disaster Recovery artifacts versionable as much as possible and ensure DR process is consistently repeatable with minimal errors with high availability and fault tolerance
+18. Enable chef to manage server.xml
+19. Enable chef to manage haproxy server
+20. POC to implement recipe for mysql user creation using vault
+21. CI-CD Pipeline using Bamboo, Chef from Dev to QA
+22. Centralized Log Management using ELK, Logstash
+23. Static code Analysis for cookbooks
+24. Benchmarking the Performance and continuous performance Monitoring 
+25. Standardization of process across products/teams within Devops
+
+Executed:
+========

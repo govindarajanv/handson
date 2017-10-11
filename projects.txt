@@ -26,6 +26,10 @@ Planned:
 23. Static code Analysis for cookbooks
 24. Benchmarking the Performance and continuous performance Monitoring 
 25. Standardization of process across products/teams within Devops
+26. Provisioning a way to track stash url from cookbooks and vice versa
+27. Correct the environment and nodes mapping in QA, IQA and UAT
+28. Reinstall Vault and ensure the management of the same
+29. Automation of handling vault credentials expiry
 
 Executed:
 ========

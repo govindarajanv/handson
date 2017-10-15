@@ -30,6 +30,7 @@ Planned:
 27. Correct the environment and nodes mapping in QA, IQA and UAT
 28. Reinstall Vault and ensure the management of the same
 29. Automation of handling vault credentials expiry
+30. Recipe for checking Data bag and Vault as a mock run before Prod activities
 
 Executed:
 ========

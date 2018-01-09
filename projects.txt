@@ -31,6 +31,10 @@ Planned:
 28. Reinstall Vault and ensure the management of the same
 29. Automation of handling vault credentials expiry
 30. Recipe for checking Data bag and Vault as a mock run before Prod activities
+31. Automate environment and node inquiry
+32. Bridge CI gap between AWS and VZ
+33. Check the process id and process id temp file and deleted pid file if process is not running
+34. RPM Creation Memory error has to be addressed.
 
 Executed:
 ========

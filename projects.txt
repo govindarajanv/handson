@@ -38,3 +38,4 @@ Planned:
 
 Executed:
 ========
+1.	For log sharing with restricted access, you can use either jenkins or bamboo to share logs remotely

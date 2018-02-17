@@ -1,0 +1,2 @@
+-	Setup production environment in AWS from scratch
+	-	Used Terraform template

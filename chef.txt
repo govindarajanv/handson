@@ -9,3 +9,4 @@ All the nodes were bootstrapped with proper roles and runlists.
 4. Enable entry exit criteria for automated chef deployment
 5. Test driven cookbook development integration with CI/CD pipeline
 6. Integration of LVS with HA Proxy 
+7. Setting up ELK stash

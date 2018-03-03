@@ -35,6 +35,8 @@ Planned:
 32. Bridge CI gap between AWS and VZ
 33. Check the process id and process id temp file and deleted pid file if process is not running
 34. RPM Creation Memory error has to be addressed.
+35. Take Bamboo plans as 'Plan DSL for Bamboo'
+36. Use of spring boot environment specific properties (application-{profile}.properties) e.g application-dev.properties
 
 Executed:
 ========

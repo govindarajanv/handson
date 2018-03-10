@@ -6,7 +6,11 @@ All the nodes were bootstrapped with proper roles and runlists.
 2. Setting up bamboo plan to seamless upload of cookbooks triggers by git check-ins. This ensures that two chef server will never go out of sync.
 
 3. Enable automation to run curl commands which are shared as part of release setup activities. The problem was addressed by treating curl commands as artificats from engineering team. This ensured that Dev team owned the curl commands. There was also a compliance issue which curl commands were executed separately or as part of chef keeping them as standalone bash scripts. The method we adopted helped us to ensure that we are adhering to the compliance. Intelligence is brought into the cookbook to keep track of successful execution of curl scripts so that idempotence is maintained. This was achieved through data bags. Bamboo plan ensures that it tests those scripts in dev environment and a developer cannot check-in a errorenous script.
+
 4. Enable entry exit criteria for automated chef deployment
+	This project is currently being done.
+		-	We are planning to use chef's pre and post convergence phase to carry out unit, integration testing and sanity testing.
+		-	Prevent using knife tool from directly uploading to chef server, instead use CI server to upload cookbooks, environments and nodes to chef server triggered by git check-ins
 5. Test driven cookbook development integration with CI/CD pipeline
 6. Integration of LVS with HA Proxy 
 7. Setting up ELK stash

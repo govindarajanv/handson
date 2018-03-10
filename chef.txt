@@ -10,7 +10,7 @@ All the nodes were bootstrapped with proper roles and runlists.
 4. Enable entry exit criteria for automated chef deployment
 	This project is currently being done.
 		-	We are planning to use chef's pre and post convergence phase to carry out unit, integration testing and sanity testing.
-		-	Prevent using knife tool from directly uploading to chef server, instead use CI server to upload cookbooks, environments and nodes to chef server triggered by git check-ins
+		-	Prevent using knife tool from directly uploading to chef server, instead use CI server to upload cookbooks, environments and nodes to chef server triggered by git check-ins; knife-acl should be used.
 5. Test driven cookbook development integration with CI/CD pipeline
 6. Integration of LVS with HA Proxy 
 7. Setting up ELK stash

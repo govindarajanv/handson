@@ -1,0 +1,5 @@
+Press CTRL-SHIFT-J to open the developer tools window.
+
+Enter the following:
+
+var i = 1; [].forEach.call(document.getElementsByTagName("table"), function(x) { console.log(i++, x); });

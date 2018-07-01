@@ -1,0 +1,16 @@
+1 - Go to interactive prompt and execute the following
+    mathematical operators
+    Hello World
+    Use '_' to get the last result in irb/python interpreter
+2 - String Operations
+    Reverse a string
+    find the length
+    capitalize
+    uppercase
+    downcase
+    is empty or not
+    print the string three times 
+3 - Multiline comments
+4 - Get user's name as input and greet him
+5 - Largest of three numbers
+6 - 

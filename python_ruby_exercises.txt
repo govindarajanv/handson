@@ -2,6 +2,7 @@
     mathematical operators
     Hello World
     Use '_' to get the last result in irb/python interpreter
+    get help on methods
 2 - String Operations
     Reverse a string
     find the length
@@ -13,4 +14,16 @@
 3 - Multiline comments
 4 - Get user's name as input and greet him
 5 - Largest of three numbers
-6 - 
+6 - print numbers from 1 to 10 and also in reverse
+7 - get a number from user and print multiplication table upto 10 for that number
+8 - print odd and even number using step feature
+9 - Greatest of two numbers by assiging a construct to a variable
+10 - create a new array/list and add heterogenous elements, iterate through them and print each of them
+11 - Array/List operations
+     length of array/list
+     join two arrays/lists
+     max element in a number array/list
+     min element in a number array/list
+     push 5 to the above number array/list
+     pop the last element 5 from that array/list
+     

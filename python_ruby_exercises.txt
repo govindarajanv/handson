@@ -27,3 +27,4 @@
      push 5 to the above number array/list
      pop the last element 5 from that array/list
 12 - Write a Ruby/Python program that asks for a year and then tells the user whether the year entered by him/her is a leap year or not.  
+13 - write a program to find a factorial of a number

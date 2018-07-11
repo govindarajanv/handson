@@ -26,4 +26,6 @@
      min element in a number array/list
      push 5 to the above number array/list
      pop the last element 5 from that array/list
-     
+12 - Check if a string is a palindrome or not
+13 - Implement a caesar cipher decoder where N = 3
+14 -      
